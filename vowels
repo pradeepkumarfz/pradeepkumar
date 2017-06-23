@@ -11,7 +11,7 @@ class vow
         {
         if(b[i]=='a'||b[i]=='e'||b[i]=='i'||b[i]=='o'||b[i]=='u')
         {
-         System.out.print("vowels");   
+         System.out.print("vowel");   
         }
         else
         {
