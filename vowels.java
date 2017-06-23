@@ -9,7 +9,7 @@ class vow
         char[] b=a.toCharArray();
         for(int i=0;i<1;i++)
         {
-        if(b[i]=='a'||b[i]=='e'||b[i]=='i'||b[i]=='o'||b[i]=='u')
+        if(b[i]=='a'||b[i]=='A'||b[i]=='E'||b[i]=='I'||b[i]=='O'||b[i]=='U'||b[i]=='e'||b[i]=='i'||b[i]=='o'||b[i]=='u')
         {
          System.out.print("vowel");   
         }
