@@ -6,9 +6,14 @@ class vow
     {
         Scanner s=new Scanner(System.in);
         int a=5;
+        if(a>0)
         for(int i=0;i<a;i++)
         {
-        System.out.println("Hello");   
+        System.out.println("Hello");
+        }
+        else
+        {
+           System.out.println(0); 
         }
         }
         
