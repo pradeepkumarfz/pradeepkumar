@@ -15,7 +15,7 @@ class vow
         }
         else
         {
-            System.out.print("consonants");
+            System.out.print("consonant");
         }
         }
         
